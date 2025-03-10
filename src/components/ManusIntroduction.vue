@@ -2,7 +2,6 @@
   <section>
     <h2>什么是 Manus?</h2>
     <p>Manus 是由 Monica 团队开发的一款革命性 AI 代理，它能够操作您的电脑、浏览网页并自主完成复杂任务。与传统的聊天机器人不同，Manus 不仅能够回答问题，还能够执行实际操作，从而帮助用户完成各种复杂任务。</p>
-
     <h2>Manus 的核心能力</h2>
     <h3>Manus 具有以下核心能力：</h3>
     <ol>
@@ -13,7 +12,6 @@
       <li><strong>内容创作</strong><br>Manus 可以创建各种类型的内容，包括文章、报告、演示文稿，甚至交互式网页体验。它能够根据用户的需求生成高质量的内容。</li>
       <li><strong>任务回放</strong><br>每个 Manus 会话都可以逐步回放，让您了解其决策过程并从其方法中学习。这一功能使 Manus 成为一个透明的工具，用户可以了解它是如何完成任务的。</li>
     </ol>
-
     <h2>Manus 与传统 AI 的区别</h2>
     <h3>与传统的 AI 工具相比，Manus 具有以下几个显著特点：</h3>
     <ul>
@@ -22,7 +20,6 @@
       <li><strong>透明性：</strong>通过任务回放功能，用户可以了解 Manus 的决策过程。</li>
       <li><strong>多功能性：</strong>Manus 能够执行各种任务，从代码开发到数据分析，从内容创作到网页浏览。</li>
     </ul>
-
     <h2>Manus 的使用场景</h2>
     <h3>Manus 可以应用于各种场景，包括但不限于：</h3>
     <ul>
@@ -41,25 +38,25 @@
 
 <style scoped>
 section {
-  padding: 2rem;
+  padding: 1rem; /* 减少内边距 */
 }
 
 h2 {
   font-size: 2rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem; /* 减少底部留白 */
 }
 
 p {
   font-size: 1.25rem;
-  line-height: 1.75;
+  line-height: 1.5; /* 减少行高 */
 }
 
 ol, ul {
-  margin: 1rem 0;
-  padding-left: 1.5rem;
+  margin: 0.5rem 0; /* 减少上下留白 */
+  padding-left: 1rem; /* 减少左侧留白 */
 }
 
 li {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.25rem; /* 减少底部留白 */
 }
 </style>
